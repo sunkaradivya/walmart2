@@ -1,8 +1,8 @@
-<<<<<<< HEAD
+
 updated in stage branch may 5th
 update this line 4th may
 
-=======
+
 
 
 updated in stage branch may 5th
